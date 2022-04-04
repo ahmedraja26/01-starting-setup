@@ -1,7 +1,6 @@
 import Expense from "./components/Expenses/Expense";
 import NewExpense from "./components/NewExpense/NewExpense";
 import react from "react";
-import { useState } from "react/cjs/react.production.min";
 const dummy_expenses = [
   {
     id: "e1",
